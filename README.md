@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogersjc88
 - 👀 I’m interested in Java, MySQL, Lua
-- 🌱 I’m currently learning Spring Boot, Spring, JPA, Hibernate, AWS, Apache Kafka, Redis
+- 🌱 I’m currently learning Spring Boot 2, Spring Framework 5, Spring Data JPA, Spring MVC, Spring Data MongoDB, Hibernate, AWS, Apache Kafka, Redis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
